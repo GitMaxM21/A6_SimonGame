@@ -1,3 +1,9 @@
+// Max Morris
+// CS 3505
+// 10/28/25
+// This class describes all of the methods that will be in the view of the simon game.
+// Most of the connect methods take the components in the gui and send it to the model.
+
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "simongamemodel.h"

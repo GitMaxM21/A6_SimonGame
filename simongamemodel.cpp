@@ -1,3 +1,9 @@
+// Max Morris
+// CS 3505
+// 10/28/25
+// This class describes all of the methods that will be in the model and will contain all of the underlying logic
+// for the simon game.
+
 #include "simongamemodel.h"
 #include <QVector>
 #include <QRandomGenerator>

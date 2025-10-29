@@ -226,6 +226,12 @@ debug/moc_mainwindow.cpp: ../../mainwindow.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qscopeguard.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qobject_impl.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qbindingstorage.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QVector \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvector.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QRandomGenerator \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qrandom.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QTimer \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qtimer.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QMainWindow \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qmainwindow.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -315,6 +321,11 @@ debug/moc_mainwindow.cpp: ../../mainwindow.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qlocale.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qguiapplication_platform.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qtabwidget.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QPropertyAnimation \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qpropertyanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvariantanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qabstractanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qeasingcurve.h \
 		debug/moc_predefs.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/bin/moc.exe
 	C:\Users\mmax0\Documents\Qt\6.9.3\mingw_64\bin\moc.exe $(DEFINES) --include C:/Users/mmax0/OneDrive/Documents/A6_SimonGame/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/debug/moc_predefs.h -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/mkspecs/win32-g++ -IC:/Users/mmax0/OneDrive/Documents/A6_SimonGame -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore -I. -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++ -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32 -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include ..\..\mainwindow.h -o debug\moc_mainwindow.cpp
@@ -430,6 +441,12 @@ debug/moc_simongamemodel.cpp: ../../simongamemodel.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qscopeguard.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qobject_impl.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qbindingstorage.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QVector \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvector.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QRandomGenerator \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qrandom.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QTimer \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qtimer.h \
 		debug/moc_predefs.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/bin/moc.exe
 	C:\Users\mmax0\Documents\Qt\6.9.3\mingw_64\bin\moc.exe $(DEFINES) --include C:/Users/mmax0/OneDrive/Documents/A6_SimonGame/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/debug/moc_predefs.h -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/mkspecs/win32-g++ -IC:/Users/mmax0/OneDrive/Documents/A6_SimonGame -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui -IC:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore -I. -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++ -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32 -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed -IC:/Users/mmax0/Documents/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include ..\..\simongamemodel.h -o debug\moc_simongamemodel.cpp
@@ -569,6 +586,12 @@ debug/main.o: ../../main.cpp ../../mainwindow.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qscopeguard.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qobject_impl.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qbindingstorage.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QVector \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvector.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QRandomGenerator \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qrandom.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QTimer \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qtimer.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QMainWindow \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qmainwindow.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -658,6 +681,11 @@ debug/main.o: ../../main.cpp ../../mainwindow.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qlocale.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qguiapplication_platform.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qtabwidget.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QPropertyAnimation \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qpropertyanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvariantanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qabstractanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qeasingcurve.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QApplication \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qapplication.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o debug\main.o ..\..\main.cpp
@@ -774,6 +802,12 @@ debug/mainwindow.o: ../../mainwindow.cpp ../../mainwindow.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qscopeguard.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qobject_impl.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qbindingstorage.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QVector \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvector.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QRandomGenerator \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qrandom.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QTimer \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qtimer.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QMainWindow \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qmainwindow.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
@@ -863,7 +897,39 @@ debug/mainwindow.o: ../../mainwindow.cpp ../../mainwindow.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qlocale.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qguiapplication_platform.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qtabwidget.h \
-		ui_mainwindow.h
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QPropertyAnimation \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qpropertyanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvariantanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qabstractanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qeasingcurve.h \
+		ui_mainwindow.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QVariant \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QApplication \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qapplication.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QGridLayout \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qgridlayout.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qlayout.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qlayoutitem.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qboxlayout.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QHBoxLayout \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QLabel \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qlabel.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qframe.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qpicture.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qtextdocument.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QMenuBar \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qmenubar.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qmenu.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QProgressBar \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qprogressbar.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QPushButton \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qpushbutton.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qabstractbutton.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QStatusBar \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qstatusbar.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QVBoxLayout \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QWidget \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QString
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o debug\mainwindow.o ..\..\mainwindow.cpp
 
 debug/simongamemodel.o: ../../simongamemodel.cpp ../../simongamemodel.h \
@@ -976,7 +1042,108 @@ debug/simongamemodel.o: ../../simongamemodel.cpp ../../simongamemodel.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qtaggedpointer.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qscopeguard.h \
 		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qobject_impl.h \
-		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qbindingstorage.h
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qbindingstorage.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QVector \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvector.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QRandomGenerator \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qrandom.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QTimer \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qtimer.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QPushButton \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qpushbutton.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qtwidgetsglobal.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qtguiglobal.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qtgui-config.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qtguiexports.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qtwidgets-config.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qtwidgetsexports.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qabstractbutton.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qicon.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qsize.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qmargins.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/q23utility.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/q20utility.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qpixmap.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qpaintdevice.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qwindowdefs.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qwindowdefs_win.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qrect.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qpoint.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qcolor.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qrgb.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qrgba64.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qshareddata.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qimage.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qpixelformat.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qtransform.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qpolygon.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qregion.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qspan.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/q20iterator.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qline.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qkeysequence.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qwidget.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qaction.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvariant.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qdebug.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qtextstream.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qcontiguouscache.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qsharedpointer.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qsharedpointer_impl.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qmap.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qshareddata_impl.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qset.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qhash.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvarlengtharray.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qpalette.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qbrush.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qfont.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qendian.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qfontmetrics.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qfontinfo.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qfontvariableaxis.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/qsizepolicy.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qcursor.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qbitmap.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qevent.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qiodevice.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qurl.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qeventpoint.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qvector2d.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qvectornd.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qpointingdevice.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qinputdevice.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qscreen.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QList \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QRect \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QSize \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QSizeF \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/QTransform \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qnativeinterface.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qscreen_platform.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qguiapplication.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qcoreapplication.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qcoreapplication_platform.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qfuture.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qfutureinterface.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qmutex.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qtsan_impl.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qresultstore.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qfuture_impl.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qthreadpool.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qthread.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qrunnable.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qexception.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qpromise.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qinputmethod.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qlocale.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtGui/qguiapplication_platform.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/QPropertyAnimation \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qpropertyanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qvariantanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qabstractanimation.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtCore/qeasingcurve.h \
+		C:/Users/mmax0/Documents/Qt/6.9.3/mingw_64/include/QtWidgets/QWidget
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o debug\simongamemodel.o ..\..\simongamemodel.cpp
 
 debug/moc_mainwindow.o: debug/moc_mainwindow.cpp 
